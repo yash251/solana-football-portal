@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+declare_id!("Gri4oQVgsq4k2r2GDgMVjnnzswKKCvpFXY91Q9xywg5c");
 
 #[program]
 pub mod solana_football_portal {

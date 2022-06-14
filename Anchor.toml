@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.localnet]
-solana_football_portal = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+solana_football_portal = "Gri4oQVgsq4k2r2GDgMVjnnzswKKCvpFXY91Q9xywg5c"
 
 [registry]
 url = "https://anchor.projectserum.com"
